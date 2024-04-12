@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 thuoc week1 ma thoi
+=======
+thuoc week1 va main
+>>>>>>> main
